@@ -44,5 +44,4 @@ console.log("After clearing completed tasks:", todoItems);
 
 
 // Resoruces used down below 
-// Chatgpt was used for debugging
 // Past python Knowledge (Arrays,loops,if statements, and functions)
